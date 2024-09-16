@@ -11,21 +11,23 @@
   </div>
 </p>
 
-<a href="https://hits.sh/github.com/senimamsistem/"><img alt="Hits" src="https://hits.sh/github.com/senimamsistem?label=PROFILE%20VIEWS&extraCount=101000&color=e51c1c"/></a>
+<a href="https://hits.sh/github.com/senimamsistem/">
+    <img alt="Hits" src="https://hits.sh/github.com/senimamsistem?label=PROFILE%20VIEWS&extraCount=101000&color=e51c1c"/>
+</a>
 
-<img align="center" alt="Coding" width="600" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="gif">
+<img align="center" alt="Coding" width="600" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="Coding GIF">
 
 <h1 align="center">Hi 👋, I'm senimamsistem</h1>
 <h2 align="center">𝘼 𝙋𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝘽𝙤𝙩 & 𝐅𝐫𝐨𝐧𝐭 𝐄𝐧𝐝 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧🤖</h2>
 
-# 💫 About Me :
+# 💫 About Me
 ![](https://img.shields.io/badge/Front%20Developer%20%2F%20Cyber%20Security🎯-Analyzer%20%2F%20Memer%20%2F%20Bot%20Developer%20-white)
 
 ## Tentang Saya
 Halo, saya @senimamsistem, seorang individu yang selalu siap menghadapi tantangan baru di dunia teknologi. Saya tidak hanya seorang pengamat, tetapi juga seorang pelaku aktif yang senantiasa mencari kesempatan untuk berkontribusi dan menciptakan nilai dalam ekosistem yang terus bergerak.
 
 ## Pengalaman dan Keterampilan
-Saya telah mendalami berbagai proyek di masa lalu dan terus menghadapi tantangan setiap Quarter. Saya memiliki keinginan kuat untuk memahami teknologi Web3 dan telah melibatkan diri dalam belajar mendalam serta menjelajahi ekosistem Web3. Saya percaya bahwa dengan terus belajar dari pengalaman dan menggali proyek-proyek yang menarik, saya dapat menyajikan teknologi terbaru dan inovatif untuk semua orang.
+Saya telah mendalami berbagai proyek di masa lalu dan terus menghadapi tantangan setiap quarter. Saya memiliki keinginan kuat untuk memahami teknologi Web3 dan telah melibatkan diri dalam belajar mendalam serta menjelajahi ekosistem Web3. Saya percaya bahwa dengan terus belajar dari pengalaman dan menggali proyek-proyek yang menarik, saya dapat menyajikan teknologi terbaru dan inovatif untuk semua orang.
 
 ## Visi Saya
 Saya adalah seseorang yang sangat antusias tentang Web3 dan selalu mencari peluang untuk memahami teknologi-proyek yang akan mengubah cara kita berinteraksi dengan dunia digital. Saya tidak hanya puas menjadi pengamat; saya adalah pelaku aktif yang berusaha menciptakan nilai bersama dengan orang lain dalam ekosistem ini.
@@ -37,33 +39,37 @@ Jangan ragu untuk menghubungi saya jika Anda tertarik untuk berdiskusi atau berk
 
 ---
 
-<h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
-Connect With Me:
-</h3>
-<p align="center" style='margin: 16px 4px 8px;'>
-    <a href="mailto:senimamsistem@gmail.com" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:senimamsistem@gmail.com" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+<h3 align="center">Connect With Me:</h3>
+<p align="center">
+    <a href="mailto:senimamsistem@gmail.com" target="_blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:senimamsistem@gmail.com" height="40" width="40" style="margin: 0 2px; padding: 2px;" />
     </a>
-    <a href="https://twitter.com/senimamsistem" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="https://twitter.com/senimamsistem" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    <a href="https://twitter.com/senimamsistem" target="_blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="https://twitter.com/senimamsistem" height="40" width="40" style="margin: 0 2px; padding: 2px;" />
     </a>
-    <a href="https://www.linkedin.com/in/senimam-sistem-6bb98a173/" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://linkedin.com/in/senimam-sistem-6bb98a173" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    <a href="https://www.linkedin.com/in/senimam-sistem-6bb98a173/" target="_blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://linkedin.com/in/senimam-sistem-6bb98a173" height="40" width="40" style="margin: 0 2px; padding: 2px;" />
     </a>
-    <a href="https://t.me/senimamsistem" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="https://t.me/senimamsistem" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    <a href="https://t.me/senimamsistem" target="_blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="https://t.me/sistemsenimam" height="40" width="40" style="margin: 0 2px; padding: 2px;" />
+    </a>
 </p>
 
 ---
 
-<h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
-Languages & Tools:
-</h3>
-<p align="center" style='margin: 16px 4px 8px;'>
+<h3 align="center">Languages & Tools:</h3>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,aws,selenium,html,css,vscode,bots,docker,androidstudio,eclipse,powershell,linux,wordpress,git,discord,visualstudio,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,go,html,java,javascript,php,python,typescript,bootstrap,nextjs,tailwind,react,vue,laravel,flask,mysql,firebase,mongodb,vercel,gitlab,azure,aws,nginx,netlify,linux,ubuntu,windows,git,github,bash,docker,npm,stackoverflow,vscode,selenium,figma,wordpress" alt="Skill Icons" />
   </a>
-</p>  
+</p>
+
+<h3 align="center">Validator Networks:</h3>
+
+<p align="center">
+  <strong>Cosmos Validator</strong> | <strong>Polkadot Validator</strong> | <strong>EVM Network</strong>
+</p>
+
 
 ---
 
@@ -72,59 +78,8 @@ Languages & Tools:
 # 📊 GitHub Stats
 
 <p align="center">
-<img style="border-radius: 50px;" src="https://github-readme-stats.vercel.app/api?username=senimamsistem&show_icons=true&theme=transparent">
+    <img style="border-radius: 50px;" src="https://github-readme-stats.vercel.app/api?username=senimamsistem&show_icons=true&theme=transparent" alt="GitHub Stats">
 </p>
 <p align="center">  
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=senimamsistem&theme=vue" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=senimamsistem&theme=vue" alt="GitHub Streak">
 </p>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=senimamsistem&show_icons=true&locale=en&layout=compact" alt="senimamsistem" />
-</p>
-
-</div>
-
----
-
-<h3 align="center" style='margin: 32px 4px 8px; font-size: 50px;'>
-  
-<𝙂𝙧𝙖𝙥𝙝📈>
-  
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senimamsistem&theme=vue"/>
-</p>
-  
----
-
-<div align="center">
-
-### ✍️ Random Dev Quotes
-
-![Random Dev Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
-
-<div align="center">
-
-### ✍️ Random Dev Jokes
-
-<p align="center">
- <a href="https://readme-jokes.vercel.app/api">
- <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23000000&textColor=%23ffffff" alt="Random Jokes Card" />
-</a>
-</p>
-
-</div>
-
----
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=senimamsistem&theme=onestar&title=MultipleLang,Stars,Followers,Commit,Issues)
-
-</div>
-
----
-
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
-
-</h3>
