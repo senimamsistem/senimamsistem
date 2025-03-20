@@ -14,7 +14,7 @@ permissions:
 
 jobs:
   auto_commit:
-    runs-on: ubuntu-latest # Menggunakan runner terbaru
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout Repository
