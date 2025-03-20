@@ -1,0 +1,49 @@
+name: Auto Commit & Push
+
+on:
+  push:
+    branches: [master] # Workflow berjalan jika ada push ke master
+
+  schedule:
+    - cron: "0 */6 * * *" # Jalankan setiap 6 jam
+
+  workflow_dispatch: # Bisa dijalankan secara manual dari GitHub UI
+
+permissions:
+  contents: write # Izin untuk menulis ke repository
+
+jobs:
+  auto_commit:
+    runs-on: ubuntu-latest # Menggunakan runner terbaru
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true # Pastikan kredensial tetap tersedia
+          fetch-depth: 0 # Ambil seluruh riwayat repo untuk menjaga konsistensi
+
+      - name: Setup Git Configuration
+        run: |
+          git config --global user.email "senimamsistem@gmail.com"
+          git config --global user.name "senimamsistem"
+
+      - name: Perbarui File Log
+        run: |
+          TANGGAL=$(date '+%Y-%m-%d %H:%M:%S')
+          echo "Pembaruan terakhir: $TANGGAL" >> update.log
+          echo "Log diperbarui pada: $TANGGAL"
+
+      - name: Commit Perubahan
+        run: |
+          pesan_commit=("Update otomatis: 🚀" "Pembaruan rutin: 🔄" "Auto-refresh: 🔥" "Optimisasi data: 📊" "Log diperbarui: 📝" "Commit berkala: ⏳")
+          pesan_acak=${pesan_commit[$RANDOM % ${#pesan_commit[@]}]}
+
+          git add update.log
+          git commit -m "$pesan_acak | $TANGGAL" || echo "Tidak ada perubahan."
+
+      - name: Push Perubahan ke GitHub
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          branch: master
+          github_token: ${{ secrets.GITHUB_TOKEN }}
