@@ -39,14 +39,17 @@ Jangan ragu untuk menghubungi saya jika Anda tertarik untuk berdiskusi atau berk
     <a href="mailto:senimamsistem@gmail.com" target="_blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:senimamsistem@gmail.com" height="40" width="40" style="margin: 0 2px; padding: 2px;" />
     </a>
-    <a href="https://twitter.com/senimamsistem" target="_blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="https://twitter.com/senimamsistem" height="40" width="40" style="margin: 0 2px; padding: 2px;" />
-    </a>
     <a href="https://www.linkedin.com/in/senimam-sistem-6bb98a173/" target="_blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://linkedin.com/in/senimam-sistem-6bb98a173" height="40" width="40" style="margin: 0 2px; padding: 2px;" />
     </a>
     <a href="https://t.me/senimamsistem" target="_blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="https://t.me/sistemsenimam" height="40" width="40" style="margin: 0 2px; padding: 2px;" />
+    </a>
+        <a href="https://twitter.com/senimamsistem" target="_blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/x/x-ar21.svg" alt="https://x.com/senimamsistem" height="40" width="40" style="margin: 0 2px; padding: 2px;" />
+    </a>
+        <a href="http://discordapp.com/users/1061364156328050828" target="_blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="http://discordapp.com/users/1061364156328050828" height="40" width="40" style="margin: 0 2px; padding: 2px;" />
     </a>
 </p>
 
