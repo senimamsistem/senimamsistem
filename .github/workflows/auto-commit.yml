@@ -2,7 +2,7 @@ name: Auto Commit & Push
 
 on:
   push:
-    branches: [master] # Workflow berjalan jika ada push ke master
+    branches: [main] # Workflow berjalan jika ada push ke master
 
   schedule:
     - cron: "0 */6 * * *" # Jalankan setiap 6 jam
@@ -45,5 +45,5 @@ jobs:
       - name: Push Perubahan ke GitHub
         uses: ad-m/github-push-action@v0.6.0
         with:
-          branch: master
+          branch: main
           github_token: ${{ secrets.GITHUB_TOKEN }}
